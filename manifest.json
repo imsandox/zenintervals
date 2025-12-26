@@ -1,0 +1,21 @@
+
+{
+  "name": "ZenIntervals 正念提醒",
+  "short_name": "ZenIntervals",
+  "description": "简约而美丽的随身正念练习助手。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "minimal-ui"],
+  "background_color": "#f0fdf4",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3206/3206033.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "lifestyle"]
+}
